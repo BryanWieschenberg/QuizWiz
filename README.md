@@ -1,6 +1,6 @@
 <div align="center">
 
-# Flashcards App
+# QuizWiz
 
 _A responsive and persistent flashcard study tool._
 
@@ -28,6 +28,6 @@ This flashcards app is a study utility designed for students or anyone looking t
 
 ## Installation & Setup
 
-1. Clone the repository with `git clone https://github.com/BryanWieschenberg/Flashcards-App.git`, enter the directory with `cd Flashcards-App`
+1. Clone the repository with `git clone https://github.com/BryanWieschenberg/QuizWiz.git`, enter the directory with `cd QuizWiz`
 2. Put your terms and definitions in `cards.csv`
 3. Run the main script with `python3 main.py`
